@@ -1,0 +1,10 @@
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Palindromo\Palindromo\bin\Debug\Palindromo.exe.config
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Palindromo\Palindromo\bin\Debug\Palindromo.exe
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Palindromo\Palindromo\bin\Debug\Palindromo.pdb
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Palindromo\Palindromo\obj\Debug\Palindromo.csproj.AssemblyReference.cache
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Palindromo\Palindromo\obj\Debug\Palindromo.Form1.resources
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Palindromo\Palindromo\obj\Debug\Palindromo.Properties.Resources.resources
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Palindromo\Palindromo\obj\Debug\Palindromo.csproj.GenerateResource.cache
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Palindromo\Palindromo\obj\Debug\Palindromo.csproj.CoreCompileInputs.cache
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Palindromo\Palindromo\obj\Debug\Palindromo.exe
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Palindromo\Palindromo\obj\Debug\Palindromo.pdb

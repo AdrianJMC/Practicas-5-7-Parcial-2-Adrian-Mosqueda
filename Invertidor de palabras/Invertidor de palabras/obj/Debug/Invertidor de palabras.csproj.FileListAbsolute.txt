@@ -1,0 +1,10 @@
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Invertidor de palabras\Invertidor de palabras\bin\Debug\Invertidor de palabras.exe.config
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Invertidor de palabras\Invertidor de palabras\bin\Debug\Invertidor de palabras.exe
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Invertidor de palabras\Invertidor de palabras\bin\Debug\Invertidor de palabras.pdb
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Invertidor de palabras\Invertidor de palabras\obj\Debug\Invertidor de palabras.csproj.AssemblyReference.cache
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Invertidor de palabras\Invertidor de palabras\obj\Debug\Invertidor_de_palabras.Form1.resources
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Invertidor de palabras\Invertidor de palabras\obj\Debug\Invertidor_de_palabras.Properties.Resources.resources
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Invertidor de palabras\Invertidor de palabras\obj\Debug\Invertidor de palabras.csproj.GenerateResource.cache
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Invertidor de palabras\Invertidor de palabras\obj\Debug\Invertidor de palabras.csproj.CoreCompileInputs.cache
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Invertidor de palabras\Invertidor de palabras\obj\Debug\Invertidor de palabras.exe
+C:\Users\chanj\Desktop\ADRIAN MOSQUEDA .-\MATERIAS\Estructura de datos\Invertidor de palabras\Invertidor de palabras\obj\Debug\Invertidor de palabras.pdb
